@@ -1,1 +1,2 @@
 # odin-recipes
+I completed Odin's Recipes Project to consolidate, solidify and demonstrate my skills in HTML. I built a basic recipe website which included a main index page with links to 3 different pages of Italian recipes. Each recipe page includes several headings, an image, a brief description of the dish, an ordered list and an unordered list. To accomplish this I created new directories and HTML documents, wrote the basic boilerplate for each HTML document, located and downloaded images, and added lists, links and images.
